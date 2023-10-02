@@ -46,14 +46,14 @@ p {
 
 @keyframes play {
     0% {
-        transform: translate3d(0, 100rem, 0);
+        transform: rotateX(21deg) translate3d(0, 100rem, 0);
         opacity: 1;
     }
     85% {
         opacity: 1;
     }
     100% {
-        transform:  translate3d(0, -190rem, 0);
+        transform: rotateX(21deg) translate3d(0, -190rem, 0);
         opacity: 1;
     }
 }
