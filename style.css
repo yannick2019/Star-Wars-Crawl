@@ -33,6 +33,10 @@ p {
     padding: 0.5rem 0;
 }
 
+.credits img {
+    width: 18rem;
+}
+
 .credits {
     position: absolute;
     top: 0;
